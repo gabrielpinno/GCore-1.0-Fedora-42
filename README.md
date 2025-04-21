@@ -23,7 +23,14 @@ Aplicativos Flatpak instalado:
 
 INSTALAÇÃO
 
-Descompactar arquivo:
+IMPORTANTE: pode funcionar em outras versões do Fedora, porém, dependendo da versão do gnome algumas extensões podem ou não funcionar
+
+RECOMENDAÇÃO:
+ * Usar o Fedora 42 formatado sem nada instalado
+ * Abrir o terminal e dar um sudo dnf update
+ * Abrir o terminal e dar um sud dnf upgrade
+
+Descompactar arquivo com o comando:
 cat GCore_Fedora_42_1.0.sd.tar.gz.part_* > GCore_Fedora_42_1.0.sd.tar.gz
 
 Instalar SaveDesktop via flatpak:
