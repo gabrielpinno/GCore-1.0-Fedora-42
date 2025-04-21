@@ -1,3 +1,28 @@
+GCore 1.0 – Interface Personalizada para Fedora 42 Gnome
+
+O GCore 1.0 é uma interface personalizada desenvolvida para o ambiente de desktop Fedora 42 Gnome, baseada no aplicativo SaveDesktop. Esse projeto visa oferecer uma experiência visualmente aprimorada e funcional para usuários que buscam personalizar ainda mais seu ambiente GNOME, integrando uma interface moderna e simplificada com as vantagens do SaveDesktop.
+
+Como Funciona:
+O GCore 1.0 oferece um conjunto de modificações que alteram a interface do Fedora 42 Gnome, trazendo uma nova visão e funcionalidade ao desktop. Ele é construído sobre a base do SaveDesktop, que é responsável por fornecer as funções de exportação e personalização da área de trabalho de maneira eficiente.
+
+Aplicativos Flatpak instalado:
+ * Central de Missões
+ * Gerenciador de Extensões
+ * OnlyOffice
+ * Spotify
+ * Key Cutter
+ * Telegram
+ * Remmina
+ * Thunderbird
+ * Ajustes
+ * FileZila
+ * VLC
+ * Discord
+ * KolourPaint
+ * qBittorrent
+
+INSTALAÇÃO
+
 Descompactar arquivo:
 cat GCore_Fedora_42_1.0.sd.tar.gz.part_* > GCore_Fedora_42_1.0.sd.tar.gz
 
