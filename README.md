@@ -31,6 +31,7 @@ RECOMENDAÇÃO:
  * Abrir o terminal e dar um sud dnf upgrade
 
 Descompactar arquivo com o comando:
+
 cat GCore_Fedora_42_1.0.sd.tar.gz.part_* > GCore_Fedora_42_1.0.sd.tar.gz
 
 Instalar SaveDesktop via flatpak:
